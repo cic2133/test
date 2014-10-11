@@ -8,7 +8,7 @@ public class TestTuition
   {
     Tuition [] studentTuition = new Tuition[MAX_STUDENT_SIZE];
     
-    studentTuition[0] = new Tuition("Cristian" ,false, 4 );
+    studentTuition[0] = new Tuition("John" ,false, 4 );
     
     JOptionPane.showMessageDialog(null, studentTuition[0].getStudentTuition());
     
