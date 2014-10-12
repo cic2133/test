@@ -12,6 +12,6 @@ public class TestTuition
     
     JOptionPane.showMessageDialog(null, studentTuition[0].getStudentTuition());
     
-  
+  sf
   }//end main
 }//end class  
